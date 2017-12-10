@@ -1,0 +1,10 @@
+#:E:\net\ionicApp\src\Dnc.ApiModel\Dnc.ApiModel.xproj
+E:\net\ionicApp\src\Dnc.ApiModel\Dnc.ApiModel.xproj|E:\net\ionicApp\src\Dnc.Entities\Dnc.Entities.xproj
+#:E:\net\ionicApp\src\Dnc.Services\Dnc.Services.xproj
+E:\net\ionicApp\src\Dnc.Services\Dnc.Services.xproj|E:\net\ionicApp\src\Dnc.ApiModel\Dnc.ApiModel.xproj
+E:\net\ionicApp\src\Dnc.Services\Dnc.Services.xproj|E:\net\ionicApp\src\Dnc.DataAccessRepository\Dnc.DataAccessRepository.xproj
+E:\net\ionicApp\src\Dnc.Services\Dnc.Services.xproj|E:\net\ionicApp\src\Dnc.Entities\Dnc.Entities.xproj
+E:\net\ionicApp\src\Dnc.ApiModel\Dnc.ApiModel.xproj|E:\net\ionicApp\src\Dnc.Entities\Dnc.Entities.xproj
+E:\net\ionicApp\src\Dnc.DataAccessRepository\Dnc.DataAccessRepository.xproj|E:\net\ionicApp\src\Dnc.Entities\Dnc.Entities.xproj
+#:E:\net\ionicApp\src\Dnc.DataAccessRepository\Dnc.DataAccessRepository.xproj
+E:\net\ionicApp\src\Dnc.DataAccessRepository\Dnc.DataAccessRepository.xproj|E:\net\ionicApp\src\Dnc.Entities\Dnc.Entities.xproj
